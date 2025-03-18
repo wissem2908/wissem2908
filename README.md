@@ -21,6 +21,9 @@ I'm a passionate web developer from Algeria with expertise in PHP, JavaScript, j
 ## 📊 GitHub Stats
 ![Wissem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissem2908&show_icons=true&theme=radical)
 
+## 📈 Contribution Chart
+![Wissem's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=wissem2908&theme=dracula)
+
 ## 📬 Get in Touch
 - 📧 Email: omri.wissem.29@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wissem-omri-a0a76b168/)
